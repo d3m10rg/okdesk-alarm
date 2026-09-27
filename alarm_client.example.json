@@ -1,0 +1,11 @@
+{
+  "okdesk_url": "https://sd.cpsupport.ru",
+  "login": "your_login",
+  "password": "your_password",
+  "tracked_issue_ids": [16540, 16541],
+  "audio_file": "sample-6s.wav",
+  "poll_interval_seconds": 60,
+  "state_file": "alarm_state.json",
+  "debug": false,
+  "request_timeout_seconds": 15
+}
