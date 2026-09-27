@@ -1,0 +1,6 @@
+alarm_client.json
+alarm_state.json
+last_case_number.txt
+__pycache__/
+*.py[cod]
+.pytest_cache/
